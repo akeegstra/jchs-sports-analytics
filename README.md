@@ -1,2 +1,2 @@
 # jchs-sports-analytics
-Data-driven sports analytics platform designed to help JCHS teams identify performance trends and make informed decisions.
+Interactive sports analytics dashboard for analyzing JCHS team and player performance using real game data.
